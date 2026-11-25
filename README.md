@@ -73,7 +73,7 @@ cebmall-site/
 4. `vite-ssg` 逐页预渲染，输出带完整 `head` 的静态 HTML；
 5. 构建产物连同 `index.md` 镜像、`llms.txt`、`sitemap*.xml`、`robots.txt` 一起发布到对象存储。
 
-这样线上不依赖运行时 API 可用性，页面首屏与抓取都拿到完整 HTML。
+这样页面渲染与抓取不依赖运行时 API 可用性，首屏和搜索引擎都能拿到完整 HTML；询盘提交等交互仍调用 `api.cebmall.com`。
 
 ---
 
@@ -95,7 +95,7 @@ cebmall-site/
 
 ### 4.1 多语言
 
-- 43 个语种每个独立 URL 前缀，页面、导航、产品与文章文案都按语种输出。
+- 43 个语种各有独立 URL：英文在根路径，其余语种使用 `/de/`、`/ar/` 这类前缀；页面、导航、产品与文章文案都按语种输出。
 - `packages/i18n/src/locale-registry.ts` 是语种唯一注册表，`apps/web/src/i18n/published-locales.ts` 由脚本生成，禁止手改。
 - 每个页面输出 43 条 `hreflang` 互指，并带 `x-default` 指向英文。
 
