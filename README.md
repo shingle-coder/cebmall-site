@@ -17,7 +17,7 @@
 | Main products | Wireless mice, wired mice, USB-C PD wall chargers, universal laptop adapters, AC power cords, USB step-up cables |
 | Typical buyers | Wholesalers, distributors, brand owners, e-commerce sellers, corporate buyers |
 | Minimum order | From 100 pcs per model; confirmed per product and customization |
-| Contact | <support@cebmall.com> · WhatsApp +86 138 2720 7660 |
+| Contact | <support@cebmall.com> |
 
 ---
 
@@ -131,7 +131,7 @@ CE, RoHS and FCC documents are available for many adapter models. Coverage varie
 
 ### How do I request a quotation or sample?
 
-Use the contact page or email <support@cebmall.com> with the model, quantity, customization needs and destination country. WhatsApp +86 138 2720 7660 is also available.
+Use the contact page or email <support@cebmall.com> with the model, quantity, customization needs and destination country.
 
 ### Which markets do you serve?
 
@@ -148,7 +148,6 @@ The website is published in multiple languages with English as the primary langu
 ## Contact us
 
 - **Email:** <support@cebmall.com>
-- **WhatsApp:** +86 138 2720 7660
 - **Address:** Room 102, No. 2 Shuiwei Street, Wanjiang District, Wanjiang, Dongguan, Guangdong, China
 - **Website:** <https://cebmall.com>
 - **Product catalog:** <https://cebmall.com/products/>
@@ -167,4 +166,4 @@ CEB Mall 是 Sanxing Plastics (Dongguan) Co., Ltd 旗下的 B2B 品牌，位于�
 
 站点以产品目录与询盘为核心，不做在线交易：买家先核对型号、规格、认证与定制项，再提交询盘获取报价与样品安排。支持 Logo、包装、颜色、线材、接口与功率等 OEM/ODM 定制，默认参考起订量为每款 100 件，具体以型号与定制要求确认为准。
 
-联系邮箱：<support@cebmall.com>；WhatsApp：+86 138 2720 7660。
+联系邮箱：<support@cebmall.com>。
