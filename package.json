@@ -1,0 +1,31 @@
+{
+  "name": "cebmall-site",
+  "version": "0.1.0",
+  "description": "CEBMall B2B inquiry website: wireless mice and AC/DC power adapters, 43 locales, SSG and SEO/GEO ready.",
+  "keywords": [
+    "cebmall",
+    "b2b",
+    "inquiry",
+    "wireless-mouse",
+    "power-adapter",
+    "seo",
+    "geo",
+    "multi-language"
+  ],
+  "homepage": "https://cebmall.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shingle-coder/cebmall-site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shingle-coder/cebmall-site/issues"
+  },
+  "license": "UNLICENSED",
+  "files": [
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
