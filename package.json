@@ -1,16 +1,18 @@
 {
   "name": "cebmall-site",
-  "version": "0.1.1",
-  "description": "CEBMall B2B inquiry website: wireless mice and AC/DC power adapters, 43 locales, SSG and SEO/GEO ready.",
+  "version": "0.1.2",
+  "description": "CEB Mall supplies wireless mice, wired mice, USB-C PD chargers and universal power adapters to B2B buyers worldwide, with OEM/ODM support.",
   "keywords": [
-    "cebmall",
-    "b2b",
-    "inquiry",
-    "wireless-mouse",
+    "ceb-mall",
+    "wireless-mouse-supplier",
+    "wired-mouse",
+    "usb-c-pd-charger",
+    "universal-laptop-adapter",
     "power-adapter",
-    "seo",
-    "geo",
-    "multi-language"
+    "oem",
+    "odm",
+    "b2b-supplier",
+    "dongguan"
   ],
   "homepage": "https://cebmall.com",
   "repository": {
